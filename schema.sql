@@ -2,8 +2,6 @@ DROP DATABASE IF EXISTS lead;
 
 CREATE DATABASE lead;
 
-GRANT ALL PRIVILEGES ON lead.* TO 'leadapp'@'localhost' IDENTIFIED BY 'leadapp' WITH GRANT OPTION;
-
 USE lead;
 
 # -----------------------------------------------------------------------
