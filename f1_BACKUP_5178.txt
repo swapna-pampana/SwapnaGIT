@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 This is f1 file from f1 branch
+=======
 This is f1 file from f2 branch
-
+>>>>>>> f2
